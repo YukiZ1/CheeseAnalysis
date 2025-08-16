@@ -1,5 +1,4 @@
-### Statistical Exploration of Thermophysical Characteristics in Cheese: Differentiation, Variety Detection, and 
-Texture Classification
+### Statistical Exploration of Thermophysical Characteristics in Cheese: Differentiation, Variety Detection, and Texture Classification
 
 This report presents a statistical analysis of 89 cheese samples from two commercial manufacturers, each labeled 
 with one of four textures: Hard, Pasta Filata, Semi-Hard, and Soft. Each sample was measured on six 
